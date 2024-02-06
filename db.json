@@ -1,0 +1,26 @@
+{
+  "usuarios": [
+    {
+      "id": "af66",
+      "nome": "",
+      "email": "",
+      "cep": "",
+      "rua": "",
+      "numero": "",
+      "bairro": "",
+      "cidade": "",
+      "estado": ""
+    },
+    {
+      "id": "79de",
+      "nome": "Jackson",
+      "email": "jackson.sousa2033@gmail.com",
+      "cep": "05788230",
+      "rua": "Rua Aroldo de Azevedo",
+      "numero": "",
+      "bairro": "Jardim Bom Refúgio",
+      "cidade": "São Paulo",
+      "estado": "SP"
+    }
+  ]
+}

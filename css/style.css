@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #fff ;
+}
+
+.container {
+    flex-grow: 3;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%;
+    padding: 20px;
+    gap: 40px;
+}
+
+.container button {
+    justify-self: center;
+    width: 200px;
+    height: 50px;
+    border:none;
+    outline: none;
+    cursor: pointer;
+    background-color: #EBCE07;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 2px;
+}
